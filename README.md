@@ -5,8 +5,6 @@ It was created for project work by the Data analysis methods course at a **Turki
 ## Official Contributers
 
  **Bilalcan GÜLEŞ** 
- 
- **Ahmet Tarık KAZAN** 
 
 ## Description of the project
 
